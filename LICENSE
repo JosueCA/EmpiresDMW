@@ -1,0 +1,135 @@
+LICENSE OF USE — "EmpiresHD"
+HD mod / tool for «Empires: Dawn of the Modern World»
+
+Copyright © 2026 JosueCA. All rights reserved.
+
+================================================================================
+1. DEFINITIONS
+================================================================================
+
+1.1. "The Author": JosueCA, holder of the rights to the Contributions defined
+     below.
+
+1.2. "The Base Game": «Empires: Dawn of the Modern World» (Stainless Steel
+     Studios, 2003), including its engine (the original Empires_DMW.exe and
+     DLLs), its artistic, audio, textual and any other material owned by its
+     respective right holders. The Base Game is NOT covered by this license and
+     retains its original license.
+
+1.3. "The Contributions": the original work created by The Author and
+     distributed as part of EmpiresHD, which includes —by way of example and not
+     limitation—:
+       · The HD loader library (hd.dll), EXCEPT the Third-Party Component of clause 5.
+     EXCLUDED from "The Contributions" are all elements of the Base Game
+     (clause 1.2) and the Third-Party Component (clause 5).
+
+1.4. "The Mod": the distributable set formed by The Contributions, intended to be
+     run together with a legitimate copy of the Base Game.
+
+================================================================================
+2. GRANT OF LICENSE
+================================================================================
+
+The Author grants any person ("the User") a free, worldwide, non-exclusive and
+non-transferable license to DOWNLOAD, INSTALL and USE The Mod for personal and
+non-commercial purposes, subject entirely to the terms and restrictions of this
+license.
+
+This grant does NOT transfer ownership of The Contributions, which remains at all
+times with The Author.
+
+================================================================================
+3. RESTRICTIONS
+================================================================================
+
+Except with the prior, express and written authorization of The Author, and
+WITHOUT PREJUDICE to the rights that clause 5 grants over the Third-Party
+Component, the following is PROHIBITED with respect to The Contributions:
+
+3.1. To MODIFY, adapt, translate, decompile, disassemble, reverse-engineer or
+     create derivative works of The Contributions, in whole or in part.
+
+3.2. To REDISTRIBUTE, publish, host, retransmit, sell, sublicense or make
+     available to third parties The Contributions, in whole or in part, by any
+     means or medium, whether free of charge or for a fee.
+
+3.3. To INTEGRATE The Contributions into other projects, mods or products, or to
+     combine them with third-party material for distribution.
+
+3.4. To REMOVE, conceal or alter the copyright notices, the attribution to The
+     Author or the present license text.
+
+3.5. To USE The Contributions for commercial purposes of any kind.
+
+================================================================================
+4. ATTRIBUTION
+================================================================================
+
+Any authorized public use of The Mod —including screenshots, videos, streams or
+mentions— must clearly and visibly credit the authorship: "EmpiresHD", by
+JosueCA.
+
+================================================================================
+5. THIRD-PARTY COMPONENT (LGPL-3.0)
+================================================================================
+
+5.1. The camera zoom/cull functionality of EmpiresHD, is an ADAPTATION of the "EmpiresDMWZoomChanger" project,
+     work of its original author, licensed under the "GNU Lesser General Public
+     License, version 3.0" (LGPL-3.0).
+
+5.2. That "Third-Party Component" is NOT covered by clauses 2 and 3 of this
+     license: it is governed EXCLUSIVELY by the LGPL-3.0. In particular, the User
+     retains over that component the rights granted by the LGPL-3.0 (study,
+     modification, relinking and redistribution under LGPL-3.0), regardless of
+     the restrictions that clause 3 imposes on the rest of The Contributions.
+
+5.3. Attribution to EmpiresDMWZoomChanger and its author is preserved. The text
+     of the LGPL-3.0 (and of the GPL-3.0 on which it relies) is distributed
+     together with EmpiresHD. In case of conflict between this license and the
+     LGPL-3.0 regarding the Third-Party Component, the LGPL-3.0 prevails.
+
+================================================================================
+6. THE BASE GAME AND THIRD-PARTY RIGHTS
+================================================================================
+
+6.1. This license covers EXCLUSIVELY The Author's Contributions. The Base Game,
+     its engine and its original resources are the property of their respective
+     right holders and are governed by the license and terms of use that they
+     establish. This license grants no rights over the Base Game.
+
+6.2. The Mod requires a legitimate copy of the Base Game to work. The Author does
+     not distribute the Base Game and is not responsible for obtaining it.
+
+6.3. The Author acknowledges and respects the intellectual property rights of the
+     Base Game's right holders. Should any element of the Base Game be included
+     incidentally for technical compatibility reasons, such element retains the
+     ownership and license of its original owner and is not covered by clauses 2
+     and 3 of this document.
+
+================================================================================
+7. NO WARRANTY
+================================================================================
+
+THE CONTRIBUTIONS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING —WITHOUT LIMITATION— THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGE OR OTHER LIABILITY ARISING FROM THE USE OR
+INABILITY TO USE THE MOD.
+
+================================================================================
+8. TERMINATION
+================================================================================
+
+This license terminates automatically, without need of notice, if the User
+breaches any of its terms. Upon termination, the User must cease all use and
+destroy all copies of The Contributions in their possession. Termination does NOT
+affect the User's rights over the Third-Party Component of clause 5, which are
+governed by the LGPL-3.0.
+
+================================================================================
+9. CONTACT AND AUTHORIZATIONS
+================================================================================
+
+To request permissions for modification, redistribution or any use not
+contemplated in this license, contact The Author at:
+https://github.com/JosueCA
